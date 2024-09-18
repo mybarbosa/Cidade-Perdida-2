@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(75, 10, 75);
+    color: aliceblue;
+    font-family: DM Serif Display;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+    background-color: rgb(247, 103, 225);
+}
